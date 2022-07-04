@@ -66,6 +66,13 @@ The work in this area includes information of CARLA machine hardware settings.
   <summary> Click to see/unsee </summary>
   <ul>
     <li>
+      <a href="https://www.python.org/downloads/">
+      Installation of python3 
+      </a>
+      <br>
+      This is the link for python3 installation. 
+    </li>
+    <li>
       <a href="https://github.com/ivsg-psu/DrivingSimulators_VirtualEnvironment_SetupCARLA">
       How to install CARLA
       </a>
