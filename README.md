@@ -135,6 +135,13 @@ The work in this area involves advanced topics in CARLA, including how to import
       <br>
     The work in this area involves information to guide how to import a customized map into CARLA.
     </li>
+    <li>
+      <a href="https://github.com/ivsg-psu/DrivingSimulators_VirtualEnvironment_SetupCARLAStartupMap">
+     How to set up the startup map in CARLA.
+      </a>
+      <br>
+    The work in this area involves information to guide how to set up the startup map in CARLA.
+    </li>    
   </ul>
 </details>
 <a href="#table-of-contents">Back to top</a>
