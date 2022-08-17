@@ -8,7 +8,7 @@ Welcome to the GettingStartedWithCARLA wiki! The goal of this wiki is to get use
 
 ***
 <p align="center">
-<img src="https://github.com/ivsg-psu/TrafficSimulators_GettingStartedWithDifferrentSimulators_GettingStartedWithCARLA/blob/main/Documents/Images/flowchart.png" alt="flowchart" width="960" height="486">
+<img src="https://github.com/ivsg-psu/TrafficSimulators_GettingStartedWithDifferrentSimulators_GettingStartedWithCARLA/blob/main/Documents/Images/flowchart.png" alt="flowchart" >
 </p>
 <!-- TABLE OF CONTENTS -->
 # Table of Contents
