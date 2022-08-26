@@ -157,10 +157,10 @@ The work in this area involves information to guide how to upload simulation res
   <ul>
     <li>
       <a href="https://github.com/ivsg-psu/FieldDataCollection_DataCollectionProcedures_DataTransferWithDMS">
-     How to push data to and pull data from DMS
+     How to push data to DMS
       </a>
       <br>
-    The work in this area involves information to guide how to push data to and pull data from DMS
+    The work in this area involves information to guide how to upload simulation results to PennDOT DMS.
     </li>
   </ul>
 </details>
