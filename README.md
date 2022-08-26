@@ -193,7 +193,7 @@ The work in this area involves topics and do not fall into the categories above.
     The work in this area involves information to guide how to set up the startup map in CARLA.
     </li>    
     <li>
-      <a href="https://github.com/ivsg-psu/DrivingSimulators_VirtualEnvironment_ImportMapIntoCARLA">
+      <a href="https://github.com/ivsg-psu/DrivingSimulators_Miscellaneous_CARLAFinestTimeTest">
      Testing the finest time measurements in CARLA
       </a>
       <br>
