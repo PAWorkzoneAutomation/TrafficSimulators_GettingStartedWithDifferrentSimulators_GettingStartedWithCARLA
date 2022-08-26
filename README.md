@@ -59,7 +59,7 @@ The work in this area includes information of CARLA machine hardware settings.
       This wiki page presents the information of the hardware settings for CARLA computer .
     </li>
   </ul>
-</details>>
+</details>
 <a href="#table-of-contents">Back to top</a>
 
 # How to install CARLA
