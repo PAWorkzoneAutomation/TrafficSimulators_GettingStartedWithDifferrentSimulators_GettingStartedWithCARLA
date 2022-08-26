@@ -10,7 +10,7 @@ Welcome to the GettingStartedWithCARLA wiki! The goal of this wiki is to get use
 <p align="center">
 <img src="https://github.com/ivsg-psu/TrafficSimulators_GettingStartedWithDifferrentSimulators_GettingStartedWithCARLA/blob/main/Documents/Images/flowchart.png" alt="flowchart" >
 </p>
-<!-- TABLE OF CONTENTS -->
+
 # Table of Contents
 <details open>
   <summary> Click to see/unsee </summary>
@@ -28,16 +28,20 @@ Welcome to the GettingStartedWithCARLA wiki! The goal of this wiki is to get use
         The work in this area involves information to guide how to ru n a simple simulation in CARLA.
     </li>
     <li>
-        <a href="#understanding-more-features-in-carla">Understanding more features in CARLA.</a>
-        The work in this area includes information to guide users to understand more features in CARLA, such as how to control the surrounding traffic, how to run CARLA in synchronized mode etc. 
+        <a href="#basic-data-analysis">Basic data analysis.</a>
+        The work in this area involves information to guide how to do basic analysis using simulation results.
     </li>
     <li>
-        <a href="#advanced-topics-in-carla">Advanced topics in CARLA</a>
-        The work in this area involves advanced topics in CARLA, including how to import a customized map into CARLA. 
+        <a href="#run-vehicle-in-customized-scenarios">Run vehicle in customized scenarios</a>
+        The work in this area involves information to guide how to run vehicle in customized scenarios.
     </li>
     <li>
-        <a href="#testing-the-limits-of-carla">Testing the limits of CARLA.</a>
-        The work in the area includes tests to check the limits of CARLA, including the finest time measurements in CARLA, repeatability tests in CARLA etc. 
+        <a href="#analyze-data-for-metrics">Analyze data for metrics</a>
+        The work in this area involves information to guide how to analyze simulation data for metrics.
+    </li>
+    <li>
+        <a href="#miscellaneous-topics">Miscellaneous topics</a>
+        The work in this area involves topics and do not fall into the categories above.
     </li>
     
   </ol>
@@ -102,8 +106,64 @@ The work in this area involves information to guide how to run a simple simulati
 </details>
 <a href="#table-of-contents">Back to top</a>
 
-# Understanding more features in CARLA
-The work in this area includes information to guide users to understand more features in CARLA, such as how to control the surrounding traffic, how to run CARLA in synchronized mode etc. 
+# Basic data analysis
+The work in this area involves information to guide how to do basic analysis using simulation results.
+<details closed> 
+  <summary> Click to see/unsee </summary>
+  <ul>
+    <li>
+      <a href="https://github.com/ivsg-psu/FeatureExtraction_RawDataProcessing_BasicDataAnalysisInCARLA">
+     How to do basic analysis using CARLA simulation results
+      </a>
+      <br>
+    The work in this area involves information to guide how to do basic analysis using CARLA simulation results
+    </li>
+  </ul>
+</details>
+<a href="#table-of-contents">Back to top</a>
+
+# Run vehicle in customized scenarios
+The work in this area involves information to guide how to run vehicle in customized scenarios
+<details closed> 
+  <summary> Click to see/unsee </summary>
+  <ul>
+    <li>
+      <a href="https://github.com/ivsg-psu/DrivingSimulators_VirtualEnvironment_ImportMapIntoCARLA">
+     How to import a customized map into CARLA and run a simple simulation
+      </a>
+      <br>
+    The work in this area involves information to guide how to import a customized map into CARLA and run a simple simulation
+    </li>
+  </ul>
+</details>
+<a href="#table-of-contents">Back to top</a>
+
+# Analyze data for metrics
+The work in this area involves information to guide how to analyze simulation data for metrics
+<details closed> 
+  <summary> Click to see/unsee </summary>
+To be added by Dr. Brennan.
+</details>
+<a href="#table-of-contents">Back to top</a>
+
+# Updated results to DMS
+The work in this area involves information to guide how to upload simulation results to PennDOT DMS
+<details closed> 
+  <summary> Click to see/unsee </summary>
+  <ul>
+    <li>
+      <a href="https://github.com/ivsg-psu/FieldDataCollection_DataCollectionProcedures_DataTransferWithDMS">
+     How to push data to and pull data from DMS
+      </a>
+      <br>
+    The work in this area involves information to guide how to push data to and pull data from DMS
+    </li>
+  </ul>
+</details>
+<a href="#table-of-contents">Back to top</a>
+
+# Miscellaneous topics
+The work in this area involves topics and do not fall into the categories above. 
 <details closed> 
   <summary> Click to see/unsee </summary>
   <ul>
@@ -121,22 +181,6 @@ The work in this area includes information to guide users to understand more fea
       <br>
     The work in this area involves information to guide how to run CARLA in synchronized mode.
     </li>
-  </ul>  
-</details>
-<a href="#table-of-contents">Back to top</a>
-
-# Advanced topics in CARLA
-The work in this area involves advanced topics in CARLA, including how to import a customized map into CARLA etc.  
-<details closed> 
-  <summary> Click to see/unsee </summary>
-  <ul>
-    <li>
-      <a href="https://github.com/ivsg-psu/DrivingSimulators_VirtualEnvironment_ImportMapIntoCARLA">
-     How to import a customized map into CARLA
-      </a>
-      <br>
-    The work in this area involves information to guide how to import a customized map into CARLA.
-    </li>
     <li>
       <a href="https://github.com/ivsg-psu/DrivingSimulators_VirtualEnvironment_SetupCARLAStartupMap">
      How to set up the startup map in CARLA.
@@ -144,15 +188,6 @@ The work in this area involves advanced topics in CARLA, including how to import
       <br>
     The work in this area involves information to guide how to set up the startup map in CARLA.
     </li>    
-  </ul>
-</details>
-<a href="#table-of-contents">Back to top</a>
-
-# Testing the limits of CARLA
-The work in the area includes tests to check the limits of CARLA, including the finest time measurements in CARLA, repeatability tests in CARLA etc. 
-<details closed> 
-  <summary> Click to see/unsee </summary>
-  <ul>
     <li>
       <a href="https://github.com/ivsg-psu/DrivingSimulators_VirtualEnvironment_ImportMapIntoCARLA">
      Testing the finest time measurements in CARLA
@@ -160,14 +195,7 @@ The work in the area includes tests to check the limits of CARLA, including the 
       <br>
     The work in this area involves information of testing the finest time measurements in CARLA.
     </li>
-    <li>
-      <a href="https://github.com/ivsg-psu/DrivingSimulators_VirtualEnvironment_ImportMapIntoCARLA">
-     Testing the repeatability in CARLA
-      </a>
-      <br>
-    The work in this area involves information of repeatability tests in CARLA
-    </li>
-  </ul>
+  </ul>  
 </details>
 <a href="#table-of-contents">Back to top</a>
 
