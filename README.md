@@ -107,7 +107,7 @@ The work in this area involves information to guide how to run a simple simulati
     The work in this area involves information to guide how to run a simple simulation in CARLA.
     </li>
     <li>
-      <a href="https://github.com/ivsg-psu/DrivingSimulators_Miscellaneous_SimpleSimulationInCARLA">
+      <a href="https://github.com/ivsg-psu/DrivingSimulators_Miscellaneous_CreateMovingObjectsInCARLA">
      How to create moving objects in CARLA
       </a>
       <br>
